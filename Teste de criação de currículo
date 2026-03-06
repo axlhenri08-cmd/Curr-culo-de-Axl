@@ -1,0 +1,142 @@
+<!--Currículo montado por Axl Henrique 3° D.S-->
+
+<!DOCTYPE html> <!--Define que o documento usa HTMl5-->
+
+<html lang="pt-br"><!--Inicia o documento HTML e idioma da pagina-->
+
+<head><!--Cabeçalho técnico da página (configurações)-->
+    
+    <meta charset="UTF-8"><!--Permite usar certos caracteres especiais-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículo</title><!--Titulo que aparece na aba do navegador-->
+
+</head>
+
+<body><!-- Corpo do site-->
+    
+    <header><!--Cabeçalho do currículo-->
+
+        <figure><!--agrupa imagens com descrição-->
+
+            <hr size="6" width="100%" color="black">
+
+            <img src="https://www.google.com/imgres?q=foto%20de%20um%20pato%20meme&imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2F2f%2Faa%2F0d%2F2faa0d54b72734820e05d0a297398ee2.jpg&imgrefurl=https%3A%2F%2Fbr.pinterest.com%2Flauvishkk%2Fmemes%2F&docid=h74R6fVTGbd7sM&tbnid=gFvrEYDE2PgydM&vet=12ahUKEwjXrbfF5YmTAxXsBrkGHZ-7AE0QnPAOegQIGhAB..i&w=720&h=727&hcb=2&ved=2ahUKEwjXrbfF5YmTAxXsBrkGHZ-7AE0QnPAOegQIGhAB" alt="Foto do currículo." width="15%">
+            
+            <figcaption>Foto do Candidato</figcaption><!--Descrição da imagen-->
+
+            <section><!---->
+                
+                <h2>Nome completo: Axl Henrique Araújo Demétrio</h2>
+                <h2>Cargo de prferencia: Dsenvolvedor de Software.</h2>
+                <h2>Contato: (55) 81 97065-8967</h2>
+                <h2>Email: axl.henrique08@gmail.com.</h2>
+            
+            </section>
+        
+            <hr size="6" width="100%" color="black">
+        
+        </figure>
+    
+    </header>
+
+    <main><!--Conteudo principal do currículo-->
+        <section><!--Cria uma seção-->
+            
+            <h2>Objetivo profissional:</h2><br>
+            <p>Busco me aprofundar ainda mais na área de Proramação e novas tecnologias. <br>
+                Com maior foca em Desenvolvimento de sistemas e programação em Html, Java e CSS.
+            </p>
+            <hr size="2" width="100%" color="black">
+
+
+            <section>
+
+                <h2>Formmação Academica:</h2>
+
+                <ul>
+                    <li>Curso técnico em Desenvolvimento de sistemas - ETE</li>
+                    <li>Ensino médio Integrado</li>
+                </ul>
+                
+                <hr size="2" width="100%" color="black">
+
+            </section>
+
+            <h2>Cursos Complementares:</h2>
+
+            <ul>
+                <li>Lógica de Programação.</li>
+                <li>Fundamentos em HTML5.</li>
+                <li>Fundamentos em Java.</li>
+                <li>Fundamentos em CSS.</li>
+            </ul>
+            
+            <hr size="2" width="100%" color="black">
+
+        </section>
+
+        <section>
+
+            <h2>Experiências Profissionais:</h2>
+            
+            <ul>
+                <li>Atulmente sem Experiência Profissional folmal.</li>
+                <li>Projetos Acadêmicos em Programação.</li>
+            </ul>
+
+            <hr size="2" width="100%" color="black">
+
+        </section>
+
+        <section>
+            <h2>Habilidades:</h2>
+
+            <ul>
+                <li>Lógica de Programação.</li>
+                <li>Apredizado Rápido.</li>
+                <li>Lider Competente.</li>
+                <li>Profissional em Java.</li>
+                <li>Profissional Html5.</li>
+                <li>Profissional em CSS.</li>
+            </ul>
+
+            <hr size="2" width="100%" color="black">
+
+        </section>
+
+    </main>
+
+    <footer><!--Cria o rodapé d site-->
+
+        <h2>Contatos:</h2>
+
+        <ul>
+            
+            <li>Email:
+                <a href="Gmail: axl.henrique08@gmail.com" target="_blank"><!--Link que abre o app Email-->
+                    axl.henrique08@gmail.com
+                </a>
+            </li>
+
+            <li>Telefone: 
+                <a href="Telefone: (55) 81 997065-8967" target="_blank"><!--Link que permite ligar diretamente no celular-->
+                    Telefone
+                </a>
+            </li>
+            
+            <li>LinkedIn: 
+                <a href="https://www.LinkedIn.com" target="_blank"><!--Link que abre o pefil do linkedin-->
+                    LinkedIn
+                </a>
+            </li>
+
+            <li>Github: 
+                <a href="https://www."></a><!--Link que leva direto para a pagina no github-->
+            </li>
+        
+        </ul>
+
+    </footer>
+
+</body>
+</html>
