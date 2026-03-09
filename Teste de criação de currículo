@@ -8,7 +8,7 @@
     
     <meta charset="UTF-8"><!--Permite usar certos caracteres especiais-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Currículo</title><!--Titulo que aparece na aba do navegador-->
+    <title>Currículo Axl °3 D.S</title><!--Titulo que aparece na aba do navegador-->
 
 </head>
 
@@ -113,14 +113,14 @@
         <ul>
             
             <li>Email:
-                <a href="Gmail: axl.henrique08@gmail.com" target="_blank"><!--Link que abre o app Email-->
+                <a href="https://www.Gmail: axl.henrique08@gmail.com" target="_blank"><!--Link que abre o app Email-->
                     axl.henrique08@gmail.com
                 </a>
             </li>
 
             <li>Telefone: 
-                <a href="Telefone: (55) 81 997065-8967" target="_blank"><!--Link que permite ligar diretamente no celular-->
-                    Telefone
+                <a href="https://web.whatsapp.com/" target="_blank"><!--Link que permite ligar diretamente no celular-->
+                    contato:(55) 81 99765-8967
                 </a>
             </li>
             
@@ -131,7 +131,9 @@
             </li>
 
             <li>Github: 
-                <a href="https://github.com/axlhenri08-cmd/Curr-culo-de-Axl/blob/main/Teste%20de%20cria%C3%A7%C3%A3o%20de%20curr%C3%ADculo">Github Currículo.com</a><!--Link que leva direto para a pagina no github-->
+                <a href="https://github.com/axlhenri08-cmd/Curr-culo-de-Axl/blob/main/Teste%20de%20cria%C3%A7%C3%A3o%20de%20curr%C3%ADculo" target="_blank">
+                    Código de acesso ao Github
+                </a><!--Link que leva direto para a pagina no github-->
             </li>
         
         </ul>
