@@ -7,7 +7,7 @@
 <head><!--Cabeçalho técnico da página (configurações)-->
     
     <meta charset="UTF-8"><!--Permite usar certos caracteres especiais-->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"><!--Define a largura da pagina e ajusta o zoon da pagina-->
     <title>Currículo Axl °3 D.S</title><!--Titulo que aparece na aba do navegador-->
 
 </head>
